@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 // Add new feature to the app - feature
-=======
 // Add new feature to the app - button
 
->>>>>>> main
+
 
 const app = Vue.createApp({
     data() {
