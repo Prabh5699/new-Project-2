@@ -1,4 +1,4 @@
-// Add new feature to the app
+// Add new feature to the app - feature
 
 const app = Vue.createApp({
     data() {
